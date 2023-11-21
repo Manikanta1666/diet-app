@@ -1,0 +1,11 @@
+p {
+    border-top:dotted red 20px ;
+    border-left:dotted blue 10px ;
+    border-right:dotted rgb(0, 255, 76) 20px ;
+    border-bottom:dashed yellow 20px ;
+    
+ }
+ body{
+     background-image:  url("../image/pexels-matthew-montrone-1324803.jpg " ) ; 
+    
+ }

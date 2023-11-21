@@ -1,0 +1,38 @@
+h1 {
+    color:aqua;
+}
+/*element selector */
+h2 {
+    color:blue
+}
+/*grouping selector*/
+h3,p {
+color:brown;
+}
+/*id selector*/
+#best {
+    color:green;
+}
+/*class selector*/
+.need {
+    color:blue;
+}
+/*universal selector*/
+* {
+font-size: 40PX;
+}
+/*descedant selector*/
+div p{
+    color:rgb(130, 50, 205);
+}
+/*background color*/
+h1 {
+background-color: goldenrod;
+}
+body{
+    /*background-image: url("../image/images.jpg");
+    background-repeat: no-repeat;*/
+    background:  url("../image/images.jpg") yellow no-repeat center;
+    
+    
+}

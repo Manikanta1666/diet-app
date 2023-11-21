@@ -1,0 +1,8 @@
+/*height and width example*/
+h1 {
+    border:green dashed 20px;
+    padding:50px;
+    margin:auto;
+    width: 100px;
+   height: 100px;
+}
